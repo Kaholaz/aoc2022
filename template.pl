@@ -4,5 +4,5 @@ use warnings;
 use strict;
 
 while (<>) {
-	print $_, "\n";
+    print $_, "\n";
 }
