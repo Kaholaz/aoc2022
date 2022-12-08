@@ -49,6 +49,7 @@ sub read_initial_stacks_from_stdin {
     return @stacks;
 }
 
+# Read stacks
 my @stacks = read_initial_stacks_from_stdin();
 
 # Read moves
